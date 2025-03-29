@@ -35,14 +35,14 @@ Refer these websites to learn about more tags you can use:
 - What is an IDE?
 - Visual Studio Code
 - Domain Name vs URL
-- <div> tag
+- < div > tag
 - Semantic tags
 - Forms in HTML
-- <label> tag
+- < label > tag
 - value attribute
 - Lists in HTML: ul and ol
 
-**Homework:** Load the HTML page you made yesterday in Visual Studio Code. Download the extension “Live Preview” by Microsoft to preview it. Try adding lists, forms, div, semantic tags in your HTML file. Try the <details> and <mark> tags.
+**Homework:** Load the HTML page you made yesterday in Visual Studio Code. Download the extension “Live Preview” by Microsoft to preview it. Try adding lists, forms, div, semantic tags in your HTML file. Try the < details > and < mark > tags.
 
 **Reference**
 - [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
