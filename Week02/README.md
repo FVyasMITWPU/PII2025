@@ -16,7 +16,7 @@
 - Inline vs Block Elements
 - HTML Tables and Styling 
 
-**Classwork:** Try the <Nav>, <aside>, <article>, and <header> tags. Play around with margin, padding, and borders. Use class, id, and title attributes. 
+**Classwork:** Try the < Nav >, < aside >, < article >, and < header > tags. Play around with margin, padding, and borders. Use class, id, and title attributes. 
 Use Inline, Internal and External CSS in your HTML file.  Create atleast 2 webpages (HTML documents) in your folder and link them.
 Try the HTML formatting tags for text. Create a table. 
 - [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
