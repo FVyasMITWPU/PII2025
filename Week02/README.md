@@ -24,7 +24,7 @@ Try the HTML formatting tags for text. Create a table.
 
 **Homework:** Complete the compulsory reading on accessibility and make changes to your webpage accordingly. 
 Try the HTML Quotation and text formatting tags and explore the different attributes of the <a> tag. 
-Find out how the <fieldset> and <legend> tags work. Style your table. Complete all classwork as well.
+Find out how the < fieldset > and < legend > tags work. Style your table. Complete all classwork as well.
 
 **Resources**
 - [Article Element MDN Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
