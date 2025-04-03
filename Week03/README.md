@@ -8,7 +8,7 @@
 - CSS Display Property
 - CSS Flexbox
 - CSS Grid
-- 
+- z-index Property
 
 **Classwork:** Try the float, position, and columns properties in CSS
 - [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
