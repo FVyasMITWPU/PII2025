@@ -14,7 +14,7 @@
 - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/DEFAULT.asp)
 - [JavaScript for the Web | MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
 
-**Homework:** Start the HTML + CSS portion of your LCA2 project. Make sure the project you will be developing has a working prototype on Figma.
+**Homework:** Continue the HTML + CSS portion of your LCA2 project. 
 
 **Reference**
 - [Tree Data Structure - Geeks for Geeks](https://www.geeksforgeeks.org/introduction-to-tree-data-structure/)
