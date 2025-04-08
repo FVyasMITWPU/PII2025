@@ -56,4 +56,4 @@
 - [Scope in JavaScript – Global vs Local vs Block Scope - FreeCodeCamp](https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope)
 - [Logical Operators - JavaScript.info](https://javascript.info/logical-operators)
 - [JavaScript while Loop - W3Schools](https://www.w3schools.com/js/js_loop_while.asp)
-- [Document: getElementsByClassName() method - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
+- [Document: getElementsByClassName() Method | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
