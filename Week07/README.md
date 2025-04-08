@@ -17,7 +17,7 @@
 
 **Homework:** Continue the HTML + CSS portion of your LCA2 project. 
 
-**Reference**
+**Reference:**
 - [console.log() method - W3Schools](https://www.w3schools.com/jsref/met_console_log.asp)
 - [JavaScript comments - W3Schools](https://www.w3schools.com/js/js_comments.asp)
 - [JavaScript HTML DOM Methods - W3Schools](https://www.w3schools.com/js/js_htmldom_methods.asp)
