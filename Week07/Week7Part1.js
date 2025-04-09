@@ -1,6 +1,6 @@
 
 document.getElementById("weather").textContent="It's a sunny day :)"; 
-/* Get the element from the DOM which has the Id="weather". (<H2> element ih HTML)
+/* Get the element from the DOM which has the Id="weather". (<H2> element in HTML)
 Then, change the text content of that HTML element to be "It's a sunny day :)" */
 
 //document.getElementById("weather").innerHTML="It's a sunny day!!";
