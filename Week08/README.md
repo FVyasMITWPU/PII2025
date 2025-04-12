@@ -5,9 +5,8 @@
 - Accessing a style object
 - document.querySelector( )
 - document.querySelectorAll( )
-- 
-
-- 
+- NodeList
+  
 **Classwork:** Use document.getElementsByTagName( ), document.getElementsByClassName( ), change the styling of a few elements on your page using JavaScript by accessing the style object, us document.querySelector( ), document.querySelectorAll( )
 
 - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/DEFAULT.asp)
@@ -26,7 +25,6 @@
 - [Changing Element Styling with Javascript CSS | Udacity](https://www.udacity.com/blog/2021/06/javascript-css.html)
 - [Enhanced for loop for HTMLCollection Elements - Stack Overflow](https://stackoverflow.com/questions/22754315/for-loop-for-htmlcollection-elements)
 - [HTML DOM Document querySelector() Method - W3Schools](https://www.w3schools.com/jsref/met_document_queryselector.asp)
+- [JavaScript HTML DOM NodeList Object - W3Schools](https://www.w3schools.com/jsref/dom_obj_html_nodelist.asp)
 - [querySelector() and querySelectorAll() DOM Methods JavaScript - FreeCodeCamp](https://www.freecodecamp.org/news/queryselector-method-javascript/)
-- []()
-
 
