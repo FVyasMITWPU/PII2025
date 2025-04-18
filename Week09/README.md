@@ -19,7 +19,7 @@
 **Reference:**
 - [JavaScript Objects - W3Schools](https://www.w3schools.com/js/js_objects.asp)
 - [Objects in Javascript - Syntax and Operations | GeeksforGeeks](https://www.geeksforgeeks.org/objects-in-javascript/)
-- [Introduction to Events -| MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
+- [Introduction to Events | MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
 - [JavaScript Events | GeeksforGeeks](https://www.geeksforgeeks.org/javascript-events/)
 - [Event Handlers in JavaScript - Tpoint Tech](https://www.tpointtech.com/javascript-events)
 - [Event handling (overview) - Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events/Event_handlers)
