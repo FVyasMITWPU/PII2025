@@ -8,8 +8,9 @@
 - for in loop
 - JavaScript Events
 - Mouse Event Handlers
+- Arrow Functions
 
-  **Classwork:** Create two objects in your JavaScript file using both the methods. Try adding, modifying, and deleting properties. Create a mouseover event.
+  **Classwork:** Create two objects in your JavaScript file using both the methods. Try adding, modifying, and deleting properties. Create a mouseover event. Try arrow functions.
   
 - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/DEFAULT.asp)
 - [JavaScript for the Web | MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
@@ -24,3 +25,5 @@
 - [Event Handlers in JavaScript - Tpoint Tech](https://www.tpointtech.com/javascript-events)
 - [Event handling (overview) - Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events/Event_handlers)
 - [Mouse Events - W3Schools](https://www.w3schools.com/jsref/obj_mouseevent.asp)
+- [Arrow functions in JavaScript | GeeksforGeeks](https://www.geeksforgeeks.org/arrow-functions-in-javascript/)
+- [JavaScript Arrow Function - W3Schools](https://www.w3schools.com/Js/js_arrow_function.asp)
