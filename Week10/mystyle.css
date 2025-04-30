@@ -1,0 +1,88 @@
+body {
+    background-color:#c9c9fd;
+    margin:3rem;
+  }
+  h1 {
+    background-color: purple;
+    color: #9efd38;
+    text-align: center;
+  }
+
+  p {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  a { 
+    font-size: 1.5em;
+    color: rgb(196, 72, 134);
+  }
+
+  div{
+    background-color: aquamarine;
+  }
+
+  .div-border{
+    border: solid rgb(212, 71, 156) 3px;
+  }
+
+
+  #maindiv{
+    display: flow-root;
+    border-style: solid;
+    border-color: aqua;
+    border-width: 5px;
+  }
+
+  #mainpara{
+    display: inline-block;
+
+  }
+
+  #mainpic{
+    border-radius: 20px;
+    max-width: 40%;
+    height: auto;
+    float:right;
+
+  }
+
+  .image_clicked{
+    
+    transform: translateX(-50px);
+    transform: translateY(75px);
+    border: solid black 5px;
+
+  }
+
+  .image_mouseovered{
+    border: solid yellow 5px;
+  }
+
+  .picniclist{
+
+    font-size: 18px;
+  }
+
+  .red-text{
+    color: red;
+  }
+
+.red-bg{
+  background-color: red;
+}
+
+  .list{
+    font-style: italic;
+  }
+
+  .not_clicked {
+    border-color: black;
+    border-width: 6px;
+  }
+
+  .button_clicked {
+    border-color: aquamarine;
+    border-width: 6px;
+  }
+
+  
