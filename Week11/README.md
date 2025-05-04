@@ -8,7 +8,7 @@
 - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/DEFAULT.asp)
 - [JavaScript for the Web | MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
 
-**Homework:** Integrate JavaScript into your LCA2 project and complete it. It should look and behave as closely as possible to your design on Figma. Make sure it includes all the things outlined in the [LCA2 assignment briefing document](https://docs.google.com/document/d/1ZkWTTWHifCrPDeovLqjKQYmNZ1JlqHEjQ1wRcTNgzmo/edit?usp=drive_link)
+**Homework:** Integrate JavaScript into your LCA2 project and complete it. It should look and behave as closely as possible to your design on Figma. Make sure it includes all the things outlined in the [LCA2 assignment briefing document](https://docs.google.com/document/d/1DwLpH4eeO7YM9lnUJ5svE1-IwO-TJpcpSj5VP9xEcBM/edit?usp=drive_link)
 
 **Reference:**
 - [HTML DOM (Document Object Model) | GeeksforGeeks](https://www.geeksforgeeks.org/dom-document-object-model/)
